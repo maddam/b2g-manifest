@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+
+<manifest>
+
+  <include name="base-jb.xml"/>
+
+
+  <remote name="arancha"
+           fetch="git://github.com/maddam/" />
+
+ 
+
+  <default remote="caf" revision="refs/tags/android-4.3_r2.1" sync-j="4"/>
+
+  <!-- grouper specific things -->
+  <project name="android_device_asus_grouper" remote= "arancha" path="device/asus/grouper" />
+  <project name="device/generic/armv7-a-neon" path="device/generic/armv7-a-neon"/>
+  <project name="device/generic/armv7-a" path="device/generic/armv7-a" />
+  <project name="device/asus/grouper-kernel" path="device/asus/grouper-kernel" />
+  <project name="platform/external/libnfc-nxp" path="external/libnfc-nxp"/>
+  <project name="platform/external/wpa_supplicant_8" path="external/wpa_supplicant_8"/>
+  <project name="platform/hardware/broadcom/wlan" path="hardware/broadcom/wlan"/>
+  <project name="platform/hardware/qcom/audio" path="hardware/qcom/audio"/>
+  <project name="platform/hardware/broadcom/bt" path="hardware/qcom/bt"/>
+  <project name="platform/hardware/qcom/display" path="hardware/qcom/display"/>
+  <project name="platform/hardware/qcom/keymaster" path="hardware/qcom/keymaster"/>
+  <project name="platform/hardware/qcom/media" path="hardware/qcom/media"/>
+  <project name="platform/hardware/qcom/msm8960" path="hardware/qcom/msm8960"/>
+  <project name="platform/hardware/qcom/power" path="hardware/qcom/power"/>
+  <project name="platform/hardware/qcom/sensors" path="hardware/qcom/sensors"/>
+  <project name="platform/hardware/broadcom/wlan" path="hardware/broadcom/wlan"/>
+  <project name="platform/hardware/ril" path="hardware/ril"/>
+
+</manifest>
+
