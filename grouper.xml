@@ -17,7 +17,6 @@
   <project name="device/generic/armv7-a-neon" path="device/generic/armv7-a-neon"/>
   <project name="device/generic/armv7-a" path="device/generic/armv7-a" />
   <project name="device/asus/grouper-kernel" path="device/asus/grouper-kernel" />
-  <project name="platform/external/libnfc-nxp" path="external/libnfc-nxp"/>
   <project name="platform/external/wpa_supplicant_8" path="external/wpa_supplicant_8"/>
   <project name="platform/hardware/broadcom/wlan" path="hardware/broadcom/wlan"/>
   <project name="platform/hardware/qcom/audio" path="hardware/qcom/audio"/>
