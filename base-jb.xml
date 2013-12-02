@@ -72,7 +72,6 @@
   <project name="platform/external/junit" path="external/junit"/>
   <project name="platform/external/libgsm" path="external/libgsm"/>
   <project name="platform/external/liblzf" path="external/liblzf"/>
-  <project name="platform/external/libnfc-nxp" path="external/libnfc-nxp"/>
   <project name="platform/external/libnl-headers" path="external/libnl-headers"/>
   <project name="platform/external/libogg" path="external/libogg"/>
   <project name="platform_external_libpng" path="external/libpng" remote="b2g" revision="b2g-4.3_r2.1"/>
