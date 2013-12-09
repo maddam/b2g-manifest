@@ -14,6 +14,7 @@
 
   <!-- grouper specific things -->
   <project name="android_device_asus_grouper" remote="arancha" path="device/asus/grouper" />
+  <project name="device/generic/armv7-a" path="device/generic/armv7-a" />
   <project name="device/generic/armv7-a-neon" path="device/generic/armv7-a-neon"/>
   
   <project name="device/asus/grouper" path="device/asus/grouper" />
