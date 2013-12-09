@@ -15,7 +15,7 @@
   <!-- grouper specific things -->
   <project name="android_device_asus_grouper" remote="arancha" path="device/asus/grouper" />
   <project name="device/generic/armv7-a-neon" path="device/generic/armv7-a-neon"/>
-  <project name="device/generic/armv7-a" path="device/generic/armv7-a" />
+  
   <project name="device/asus/grouper" path="device/asus/grouper" />
   <project name="platform/external/wpa_supplicant_8" path="external/wpa_supplicant_8"/>
   <project name="platform/hardware/broadcom/wlan" path="hardware/broadcom/wlan"/>
